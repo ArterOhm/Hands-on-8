@@ -1,0 +1,43 @@
+.blogx {
+  display: flex;
+  flex-direction:column;
+  gap: 8px;
+}
+.AuthorDate{
+  display: flex;
+  flex-direction: row;
+  gap: 15px;
+}
+.author{
+  color:#B90101;
+  font-size: 16px;
+  font-weight: 600;
+}
+.date{
+  color:#6B6B6B ;
+  font-size: 12px;
+  font-weight: 400;
+  text-align: justify ;
+}
+.tags{
+  display: flex;
+  flex-direction: row;
+  gap: 15px;
+}
+.HeaderDescription {
+  display: flex;
+  flex-direction:column;
+  gap: 8px;
+}
+.HeaderDescription a{
+  text-decoration :none;
+
+}
+.Header{
+  color:black ;
+  font-size: 24px;
+  font-weight: 700;
+}
+.Description{
+  color:#6B6B6B ;
+}

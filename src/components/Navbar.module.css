@@ -1,0 +1,23 @@
+.navbar {
+  width: 100%;
+  height: 60px;
+  padding: 0 64px;
+  box-sizing: border-box;
+  background-color: white;
+  color: black;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.navbar div {
+  width: auto;
+  height: auto;
+  color: black;
+  display: flex;
+  gap: 3.5rem;
+}
+
+.navbar div span {
+  font-size: 13px;
+  font-weight: 700;
+}
